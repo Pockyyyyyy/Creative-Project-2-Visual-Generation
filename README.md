@@ -34,7 +34,7 @@ Only masked padding, pixels: 32
 Sampling steps: 150
 Others: Default
 
-###prompts for each images:
+### prompts for each images:
 
 1. Beach
 text2img: isometric glass cup, isometric sparkling water in green blue
