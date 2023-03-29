@@ -1,5 +1,7 @@
 # Using Stable Diffusion to Generate Drinks Present Different Environment 
 
+## [**Showcase**](https://docs.google.com/presentation/d/1RyEMGBlgKjBeWpbcvahz4dvL1GpABhuKjBkpx5CVoA4/edit?usp=sharing)
+
 ## Artist Statement
 I have always had a passion for baking and combining my favorite plants into delicious desserts. The idea of this work is to take this a step further and use the real world environment as a source of inspiration by combining different colors and types of drinks to create a unique beverage that is representative of the natural world. With the help of Stable Diffusion (an AI image generator), I began to experiment with different cocktails and their bright colors to represent the different environments, such as a Blood Mary for a volcano and a mint mojito for streams and green leaves. However, I soon realized that I was limiting myself if I only used cocktails and so I decided to explore further and create drinks that were representative of different natural environments.
 
