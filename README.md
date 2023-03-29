@@ -80,6 +80,7 @@ img2img Inpaint: mushroom trees; boat; stumps; rock ground
 ## Showcase Video
 
 Short Video - [2 mins long slideshow](https://youtu.be/w6zcsLJW_Ig)
+
 Long Video - [5 mins long explaining](https://youtu.be/QPHa0kNJTaU)
 
 ## Method
