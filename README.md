@@ -1,12 +1,12 @@
-#Using Stable Diffusion to Generate Drinks Present Different Environment 
+# Using Stable Diffusion to Generate Drinks Present Different Environment 
 
-##Artist Statement
+## Artist Statement
 I have always had a passion for baking and combining my favorite plants into delicious desserts. The idea of this work is to take this a step further and use the real world environment as a source of inspiration by combining different colors and types of drinks to create a unique beverage that is representative of the natural world. With the help of Stable Diffusion (an AI image generator), I began to experiment with different cocktails and their bright colors to represent the different environments, such as a Blood Mary for a volcano and a mint mojito for streams and green leaves. However, I soon realized that I was limiting myself if I only used cocktails and so I decided to explore further and create drinks that were representative of different natural environments.
 I take into consideration the iconic items that are found in each environment and use them to create a visual representation of the environment. For example, I used coconut trees and undersea to show the characteristics of the beach. And I didn't only use Stable Diffusion to generate the images, I also took the result into photoshop to create each drink poster to present these in a better way.
 I do find the process of creating these drinks to be a creative challenge. Thinking about what elements should be in the enviroment and positioning all the items to make the drink looks good are the biggest challenges I was facing. The combination of the two interests allows me to create something that is unique and visually appealing. I believe that my work let people be able to appreciate the natural beauty of the environment shown in a form of a drink.
 
-##Source Code
-###There are several software been used in this project.
+## Source Code
+### There are several software been used in this project.
 
 - Main tool to trained Stable Diffusion with my own images: [fast stable diffusion](https://github.com/Excalibro1/fast-stable-diffusionwik/wiki/fast-stable-diffusion-wiki).
 - Main tool to generate images: [Stable Diffusion](https://github.com/Excalibro1/fast-stable-diffusionwik/wiki/fast-stable-diffusion-wiki)
@@ -14,7 +14,7 @@ I do find the process of creating these drinks to be a creative challenge. Think
 - Tool to enhancer the quality/resolution of the generated image: [Remini Web](https://app.remini.ai/?v=e467d774-a97c-4b73-90e5-1d48a0f06930)
 - Tool to edit the generated image into poster: [Photoshop](https://www.adobe.com/creativecloud/business/teams.html?sdid=B16P3W9X&mv=search&ef_id=Cj0KCQjww4-hBhCtARIsAC9gR3bmokijPb8wYO9-LLBbyA2m240hev7SDYtAde2J2HNNzxh50LfXmecaAtpxEALw_wcB:G:s&s_kwcid=AL!3085!3!566814725481!e!!g!!photoshop!15482932269!136265040448)
 
-###Settings in Stable Diffusion
+### Settings in Stable Diffusion
 
 - txt2img:
 Sampling method: Euler a
@@ -75,11 +75,12 @@ text2img: isometric glass cup, water
 img2img Inpaint: mushroom trees; boat; stumps; rock ground
 
 
-##Showcase Video
+## Showcase Video
+
 Short Video - [2 mins long slideshow](https://youtu.be/w6zcsLJW_Ig)
 Long Video - [5 mins long explaining](https://youtu.be/QPHa0kNJTaU)
 
-##Method
+## Method
 
 This project is done in several platforms/softwares. The steps will be list in numbers:
 
